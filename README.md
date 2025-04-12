@@ -29,6 +29,9 @@ Proof of proficiency in building AI-enhanced Power BI dashboards using real-time
 
 
 
+###   <!-- empty heading or any text creates a gap -->
+<!-- SPACE -->
+<br><br><br>  <!-- This creates vertical space -->
 
 
 
