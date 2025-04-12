@@ -1,4 +1,4 @@
-# Power-BI
+# Power-BI with ChatGPT & AI
 
 
 
